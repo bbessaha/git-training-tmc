@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "TST_PROJECT_REFERENCE",
+    "branch" : "branches/main"
+  } ]
+}
