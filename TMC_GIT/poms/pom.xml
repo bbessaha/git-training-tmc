@@ -14,6 +14,7 @@
     <module>jobs/process/job2_0.1</module>
     <module>jobs/process/tst_0.1</module>
     <module>../../TST_PROJECT_REFERENCE/poms</module>
+    <module>jobs/process/j_ref_test_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
