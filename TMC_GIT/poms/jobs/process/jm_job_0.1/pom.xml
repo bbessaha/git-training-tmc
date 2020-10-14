@@ -132,6 +132,11 @@
       <artifactId>routines</artifactId>
       <version>7.3.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.example.tmc_git.job</groupId>
+      <artifactId>job1</artifactId>
+      <version>0.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>${talend.job.finalName}</finalName>
