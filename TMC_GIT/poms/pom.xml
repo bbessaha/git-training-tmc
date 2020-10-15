@@ -16,7 +16,6 @@
     <module>jobs/process/jm_job_0.1</module>
     <module>../../TST_PROJECT_REFERENCE/poms</module>
     <module>jobs/process/parallelization_tab_0.1</module>
-    <module>jobs/process/j_test_case_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>

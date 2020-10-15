@@ -428,15 +428,4 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_zW-1IA7iEeuIsMcNVpCQOw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_37Kc4A7gEeuIsMcNVpCQOw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
